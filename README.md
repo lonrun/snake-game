@@ -44,3 +44,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **(Lonrun)** - _Initial work_
 - **Master** - _Code assistance_
+
+## Statistics
+![GitHub Repo Stats](https://github-readme-stats.vercel.app/api?username=lonrun&repo=snake-game&show_icons=true&theme=default&count_private=true&include_all_commits=true)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=lonrun.snake-game)
