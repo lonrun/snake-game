@@ -1,0 +1,17 @@
+{
+    "name": "My Codespace",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+            "ms-python.python"
+        ],
+        "settings": {}
+      },
+      "codespaces": {
+        "openFiles": ["README.md"]
+      }
+    },
+    "onCreateCommand": "bash .devcontainer/onCreateCommand.sh",
+    "postStartCommand": "echo 'Codespace is ready!'"
+  }
+  
