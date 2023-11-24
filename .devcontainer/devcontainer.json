@@ -1,5 +1,8 @@
 {
     "name": "My Codespace",
+    "hostRequirements": {
+      "cpus": 4
+    },
     "customizations": {
       "vscode": {
         "extensions": [
